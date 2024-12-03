@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body onload="getGamesList()">
+    <h1>Loading Data from AJAX</h1>
+
+    <ul id="gameList">
+        <script>
+               function doSearch(currentListItemComponent, valueYouTyped){
+
+                const innerTextOfThisListItem = currentListItemComponent.text()
+                const textInLower = innerTextOfThisListItem.toLowerCase()
+
+                const valueIndex = textInLower.indexOf(valueYouTyped)
+                const doesValueExist = valueIndex > -1
+
+                currentListItemComponent.toggle(doesValueExist)
+
+               } 
+
+               function updateGames(jsonData){
+                for(i = 0; i < jsonData.length(); i++){
+                    
+                }
+               }
+        </script>
+    </ul>
+</body>
+</html>

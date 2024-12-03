@@ -1,0 +1,103 @@
+[
+    {
+        "title": "Tesla Model S",
+        "dev": "Tesla, Inc.",
+        "image": "tesla.jpg"
+    },
+    {
+        "title": "Ford Mustang",
+        "dev": "Ford Motor Company",
+        "image": "mustang.png"
+    },
+    {
+        "title": "Chevrolet Corvette",
+        "dev": "Chevrolet",
+        "image": "corvette.jpg"
+    },
+    {
+        "title": "Porsche 911",
+        "dev": "Porsche",
+        "image": "porsche_911.jpg"
+    },
+    {
+        "title": "BMW M3",
+        "dev": "BMW",
+        "image": "bmw_m3.jpg"
+    },
+    {
+        "title": "Audi R8",
+        "dev": "Audi",
+        "image": "audi_r8.jpg"
+    },
+    {
+        "title": "Lamborghini Aventador",
+        "dev": "Lamborghini",
+        "image": "aventador.jpg"
+    },
+    {
+        "title": "Ferrari F8 Tributo",
+        "dev": "Ferrari",
+        "image": "f8_tributo.jpg"
+    },
+    {
+        "title": "Mercedes-Benz S-Class",
+        "dev": "Mercedes-Benz",
+        "image": "s_class.jpg"
+    },
+    {
+        "title": "Jaguar F-Type",
+        "dev": "Jaguar",
+        "image": "f_type.jpg"
+    },
+    {
+        "title": "Nissan GT-R",
+        "dev": "Nissan",
+        "image": "gt_r.jpg"
+    },
+    {
+        "title": "Honda Civic",
+        "dev": "Honda",
+        "image": "civic.jpg"
+    },
+    {
+        "title": "Toyota Supra",
+        "dev": "Toyota",
+        "image": "supra.jpg"
+    },
+    {
+        "title": "Aston Martin DB11",
+        "dev": "Aston Martin",
+        "image": "db11.jpg"
+    },
+    {
+        "title": "McLaren 720S",
+        "dev": "McLaren",
+        "image": "720s.jpg"
+        
+    },
+    {
+        "title": "Bentley Continental GT",
+        "dev": "Bentley",
+        "image": "continental_gt.jpg"
+    },
+    {
+        "title": "Volkswagen Golf",
+        "dev": "Volkswagen",
+        "image": "golf.jpg"
+    },
+    {
+        "title": "Subaru WRX",
+        "dev": "Subaru",
+        "image": "wrx.jpg"
+    },
+    {
+        "title": "Dodge Charger",
+        "dev": "Dodge",
+        "image": "charger.jpg"
+    },
+    {
+        "title": "Mazda MX-5 Miata",
+        "dev": "Mazda",
+        "image": "miata.jpg"
+    }
+]
